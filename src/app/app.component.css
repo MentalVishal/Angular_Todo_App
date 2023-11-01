@@ -1,0 +1,19 @@
+#container {
+  height: 62vh;
+  border-radius: 5px;
+  position: relative;
+  overflow: scroll;
+}
+
+h2 {
+  padding: 1rem;
+  color: rgb(5, 24, 46);
+  font-weight: 700;
+}
+
+#cen {
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
